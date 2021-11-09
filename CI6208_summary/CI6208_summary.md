@@ -447,6 +447,8 @@
   - Research hypothesis: an assertion about the relationship among variables
   - Null hypothesis: a statement about the non-relationship among the variables
     - Null hypothesis (H0) is the currently accepted hypothesis, and what to do is trying to reject it by proving it is false, or its negative proposition (H1) is true.
+  - [假设检验的逻辑是是什么？ - GRAYLAMB的回答 - 知乎](https://www.zhihu.com/question/20254932/answer/459073864)
+  - [统计学假设检验中 p 值的含义具体是什么？ - 马同学的回答 - 知乎](https://www.zhihu.com/question/23149768/answer/282842210)
 
 
 
