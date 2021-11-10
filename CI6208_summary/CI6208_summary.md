@@ -1272,9 +1272,9 @@
   - Beneficence: doing good for others
   - Nonmaleficence: doing no harm to others
   - IRB review categories:
-- Exempt (no known risk)
-- Expedited (no more than minimal risk)
-- Full (more than minimal risk)
+    - Exempt (no known risk)
+    - Expedited (no more than minimal risk)
+    - Full (more than minimal risk)
 - Fidelity and Responsibility
   - Safeguards must be incorporated to help maintain a trusting relationship between researcher and participants
 - Integrity
